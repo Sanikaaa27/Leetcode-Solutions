@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1148-article-views-i](https://github.com/Sanikaaa27/SQL-50-Leetcode-Solutions/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/Sanikaaa27/SQL-50-Leetcode-Solutions/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Sanikaaa27/SQL-50-Leetcode-Solutions/tree/master/1757-recyclable-and-low-fat-products) |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Sanikaaa27/SQL-50-Leetcode-Solutions/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Array
 |  |
 | ------- |
